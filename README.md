@@ -1,36 +1,92 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Practice Project with Next.js and TypeScript: Discord Clone
 
-## Getting Started
+This is a practice of a relatively large and complex project, whose main focus is to try to imitate many of the core functionalities of the Discord application. The primary goal is to learn how to implement these functionalities and gain a better understanding of the technologies used in the process.
 
-First, run the development server:
+## Principal Technologies
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- TypeScript
+- Next.js 13
+- React
+- Socket.io
+- Tailwind
+- Prisma
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Key Functionalities
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- Real-time messaging using Socket.io.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+- Send attachments as messages using UploadThing.
 
-## Learn More
+- Delete & Edit messages in real time for all users.
 
-To learn more about Next.js, take a look at the following resources:
+- Create Text, Audio and Video call Channels.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- 1:1 conversation between members.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+- 1:1 video calls between members.
 
-## Deploy on Vercel
+- Member management (Kick, Role change Guest / Moderator).
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- Unique invite link generation & full working invite system.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+- Infinite loading for messages in batches of 10 (@tanstack/query).
+
+- Server creation and customization.
+
+- Very Good UI using Tailwind-CSS and ShadcnUI.
+
+- Full responsivity and mobile UI.
+
+- Light / Dark mode.
+
+- ORM using Prisma.
+
+- MySQL database using Planetscale.
+
+- Authentication with Clerk.
+
+<h1 align="center"> Thanks for See </h1>
+
+<p align="center">
+    <img 
+        src="https://banner2.cleanpng.com/20190602/okw/kisspng-discord-computer-icons-logo-portable-network-graph-discord-logo-16-x16-png-clipart-download-5cf46a10658692.3312996115595218084159.jpg" 
+        alt="Img 1" 
+        width="100" 
+        hspace="25"
+    />
+    <img 
+        src="https://w7.pngwing.com/pngs/915/519/png-transparent-typescript-hd-logo-thumbnail.png" 
+        alt="Img 2" 
+        width="100"
+        hspace="25"
+    />
+    <img 
+        src="https://w7.pngwing.com/pngs/87/586/png-transparent-next-js-hd-logo.png" 
+        alt="Img 3" 
+        width="100"
+        hspace="25"
+    />
+    <img 
+        src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png" 
+        alt="Img 4" 
+        width="100"
+        hspace="25"
+    />
+    <img 
+        src="https://p7.hiclipart.com/preview/294/414/509/socket-io-node-js-express-js-npm-network-socket-socket-thumbnail.jpg" 
+        alt="Img 5" 
+        width="100"
+        hspace="25"
+    />
+    <img 
+        src="https://seeklogo.com/images/P/prisma-logo-3805665B69-seeklogo.com.png" 
+        alt="Img 5" 
+        width="100"
+        hspace="25"
+    />
+    <img 
+        src="https://w7.pngwing.com/pngs/293/485/png-transparent-tailwind-css-hd-logo.png" 
+        alt="Img 6" 
+        width="100"
+    />
+</p>
