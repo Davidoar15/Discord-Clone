@@ -49,7 +49,7 @@ This is a practice of a relatively large and complex project, whose main focus i
 
 <p align="center">
     <img 
-        src="https://banner2.cleanpng.com/20190602/okw/kisspng-discord-computer-icons-logo-portable-network-graph-discord-logo-16-x16-png-clipart-download-5cf46a10658692.3312996115595218084159.jpg" 
+        src="https://static-00.iconduck.com/assets.00/discord-icon-2048x2048-nnt62s2u.png" 
         alt="Img 1" 
         width="100" 
         hspace="25"
@@ -61,7 +61,7 @@ This is a practice of a relatively large and complex project, whose main focus i
         hspace="25"
     />
     <img 
-        src="https://w7.pngwing.com/pngs/87/586/png-transparent-next-js-hd-logo.png" 
+        src="https://www.datocms-assets.com/75941/1657707878-nextjs_logo.png" 
         alt="Img 3" 
         width="100"
         hspace="25"
@@ -73,7 +73,7 @@ This is a practice of a relatively large and complex project, whose main focus i
         hspace="25"
     />
     <img 
-        src="https://p7.hiclipart.com/preview/294/414/509/socket-io-node-js-express-js-npm-network-socket-socket-thumbnail.jpg" 
+        src="https://static-00.iconduck.com/assets.00/socket-io-icon-2048x2046-tx88w4en.png" 
         alt="Img 5" 
         width="100"
         hspace="25"
@@ -85,7 +85,7 @@ This is a practice of a relatively large and complex project, whose main focus i
         hspace="25"
     />
     <img 
-        src="https://w7.pngwing.com/pngs/293/485/png-transparent-tailwind-css-hd-logo.png" 
+        src="https://files.raycast.com/sjxs3pxsc6k63ju0fzv8l3cu4v90" 
         alt="Img 6" 
         width="100"
     />
