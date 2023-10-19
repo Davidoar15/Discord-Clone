@@ -61,7 +61,7 @@ This is a practice of a relatively large and complex project, whose main focus i
         hspace="25"
     />
     <img 
-        src="https://www.datocms-assets.com/75941/1657707878-nextjs_logo.png" 
+        src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3254134/nextjs-icon-icon-sm.png" 
         alt="Img 3" 
         width="100"
         hspace="25"
